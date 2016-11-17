@@ -1,9 +1,9 @@
 //
 //  main.c
-//  trab_os_p2
+//  cigarette smokers problem
 //
 //  Created by Vynicius Pontes on 14/11/16.
-//  Copyright © 2016 Vynicius Pontes. All rights reserved.
+//  auth Vynicius Pontes
 //
 
 #include <stdio.h>
@@ -164,8 +164,4 @@ int main(int argc, char *argv[])
     puts("finishing smoker");
     
     
-    puts("Done");
-
-    
-    //pthread_exit(tid1);
-}
+    puts("Done");}
